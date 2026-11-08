@@ -201,3 +201,6 @@ This repository serves as the official landing page for Adobe Firefly. The softw
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Adobe Firefly today!**
+
+---
+**Last updated:** 2026-11-08 08:43:37 UTC
